@@ -5,14 +5,14 @@
 <U><h3 align="center">SirB3nji</h3></U>
 <hr></hr>
 <h3 align="center">Moi 👑</h3>
-<h3 align="center">Jeune développeur agé de 17 ans 🦾</h3>
+<h4 align="center">Jeune développeur agé de 17 ans 🦾</h4>
 <hr></hr>
 <h3 align="center">Mes Compétences 📊</h3>
-<h3 align="center">🐍 Python → Débutant 🐍<h3> 
-<h3 align="center">🌐 Html/Css → Amateur 🌐<h3> 
+<h4 align="center">🐍 Python → Débutant 🐍<h4> 
+<h4 align="center">🌐 Html/Css → Amateur 🌐<h4> 
 <hr></hr>
 <h3 align="center">Liens 🔗</h3>  
-<h3 align="center">Coming Soon ... 🤫</h3>  
+<h4 align="center">Coming Soon ... 🤫</h4>  
   
 
 
