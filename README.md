@@ -1,4 +1,4 @@
-<h3 align="center"><U>SirB3nji</U></h3>
+<U><h3 align="center">SirB3nji</h3></U>
 <hr></hr>
 <h3 align="center">Moi 👑</h3>
 <h3 align="center">Jeune développeur agé de 17 ans 🦾</h3>
