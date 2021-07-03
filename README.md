@@ -1,17 +1,11 @@
-<h1 align="center">SirB3nji</h1>
+<h2 align="center">SirB3nji</h2>
 <hr>
-<br>
-<h1 align="center">Moi 👑</h1>
-<br>
-<p align="center">Jeune développeur agé de 17 ans 🦾</p>
+<h2 align="center">Moi 👑</h2>
+<h2 align="center">Jeune développeur agé de 17 ans 🦾</h2>
 <hr>
-<br>
-<h1 align="center">Mes Compétences 📊</h1>
-<br>
-<p align="center">🐍 Python → Débutant 🐍</p> 
-<br>
-<p align="center">🌐 Html/Css → Amateur 🌐</p> 
+<h2 align="center">Mes Compétences 📊</h2>
+<h2 align="center">🐍 Python → Débutant 🐍<h2> 
+<h2 align="center">🌐 Html/Css → Amateur 🌐<h2> 
 <hr>
-<br>
 
 
