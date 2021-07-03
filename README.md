@@ -1,16 +1,16 @@
                                                                         
-                                                                        ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
-                                                                                          Moi 👑
+Moi 👑
 
-                                                                            Jeune développeur agé de 17 ans 🦾
+Jeune développeur agé de 17 ans 🦾
         
-                                                                        ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 
-                                                                           Mes compétences :arrow_heading_down:
+Mes compétences :arrow_heading_down:
 
-                                                                                 🐍 Python → Débutant 🐍 
+🐍 Python → Débutant 🐍 
                                                                                  
-                                                                                 🖥 Html/Css → Amateur 🖥
+🖥 Html/Css → Amateur 🖥
 
-                                                                        ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
