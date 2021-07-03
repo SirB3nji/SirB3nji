@@ -1,3 +1,5 @@
+<img align="center" src="https://media1.tenor.com/images/858fe39d85eaaa1a932095bfb71599a3/tenor.gif?itemid=18120755">
+<br>
 <U><h3 align="center">SirB3nji</h3></U>
 <hr></hr>
 <h3 align="center">Moi 👑</h3>
