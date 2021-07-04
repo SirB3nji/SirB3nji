@@ -13,6 +13,7 @@
 <hr></hr>
 <h3 align="center">Liens 🔗</h3>  
 <h4 align="center">☄️ Magical Embed ☄️ : https://github.com/SirB3nji/MagicalEmbed </h4>  
+<h4 align="center">😎 Bamako 😎 : https://github.com/SirB3nji/Bamako </h4>  
 <h4 align="center">Coming Soon ... 🤫</h4>  
   
 
